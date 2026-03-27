@@ -4,10 +4,17 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ##   PROBLEM STATEMENT AND DATASET
+To design and implement a Convolutional Neural Network (CNN) model for image classification using the Fashion-MNIST dataset. The objective is to train the CNN to accurately classify grayscale images of fashion products into predefined categories such as T-shirt, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, and Ankle Boot, and to verify the model’s performance on unseen test images.
+
+The Fashion-MNIST dataset is used for this project. It is a benchmark dataset consisting of 70,000 grayscale images of size 28×28 pixels, divided into:
+
+Training Set: 60,000 images
+
+Test Set: 10,000 images
+
+Each image belongs to one of 10 fashion categories.
 Include the Problem Statement and Dataset.
 
-## Neural Network Model
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 STEP 1:
