@@ -87,4 +87,5 @@ Include your sample input and output here
 <img width="589" height="521" alt="Screenshot 2026-02-23 094143" src="https://github.com/user-attachments/assets/f64412ef-e17c-4003-bfe2-cddbd087e6be" />
 
 ## RESULT
-Include your result here
+To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images is executed successfully.
+
